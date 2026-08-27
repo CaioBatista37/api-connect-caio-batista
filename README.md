@@ -15,10 +15,10 @@ A API Connect tem como objetivo disponibilizar endpoints para cadastrar, listar,
 
 ## Como executar localmente
 
-1. Acesse a pasta do projeto:
+1. Clone ou baixe este repositório e acesse a pasta do projeto:
 
 
-cd C:\Users\caio.sa\api-connect
+cd nome-da-pasta-do-projeto
 
 
 2. Instale as dependencias:
@@ -41,7 +41,7 @@ npm start
 
 4. Acesse a API em:
 
-text
+
 http://localhost:3000
 
 
